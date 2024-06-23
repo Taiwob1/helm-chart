@@ -3,12 +3,12 @@ entries:
   my-nginx:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-06-23T16:39:26.455026865-05:00"
+    created: "2024-06-23T17:15:32.83141443-05:00"
     description: A Helm chart for Kubernetes
     digest: d85db24b18b5e86754503ca48cf5eb97ea1bef3dd633fd9c78da18a4769205bc
     name: my-nginx
     type: application
     urls:
-    - helm-chart/my-nginx-0.1.0.tgz
+    - my-nginx-0.1.0.tgz
     version: 0.1.0
-generated: "2024-06-23T16:39:26.453598838-05:00"
+generated: "2024-06-23T17:15:32.827161276-05:00"
